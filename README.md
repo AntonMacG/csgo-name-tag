@@ -6,7 +6,7 @@ Rename items without the usual client-side limitations because I am seeing peopl
 
 1. Download [NodeJS](https://nodejs.org/) and install/update it
 2. Download [Git](https://git-scm.com/) and install it
-3. Open a command prompt and enter `git clone https://github.com/BeepIsla/csgo-nametag-tool.git --recursive`
+3. Open a command prompt and enter `git clone https://github.com/AntonMacG/csgo-name-tag.git --recursive`
 4. Enter the just downloaded folder using `cd csgo-nametag-tool`
 5. Download the required dependencies using `npm ci`
 6. Run the program using `node index.js`
